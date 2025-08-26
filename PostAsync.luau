@@ -1,5 +1,5 @@
 --sorry this code is pretty messy
-
+-- Made by VexTheProtogen (4071774573)
 local WQ = {}
 local GCooldown = false
 local HttpService = game:GetService("HttpService")
